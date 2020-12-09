@@ -730,4 +730,4 @@ Thanks for reading!
 
 ---
 
-This article was originally published on [Section.io](https://www.section.io/engineering-education/agora-express-token-server/).
+This article was originally published on [Section.io](https://www.section.io/engineering-education/react-native-agora-livestreaming-app/).
