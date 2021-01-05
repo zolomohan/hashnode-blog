@@ -433,4 +433,4 @@ Thanks for Reading!
 
 ---
 
-This article was originally published on [Section.io](https://www.section.io/engineering-education/react-native-agora-video-conference-app/)
+This article was originally published in [Section.io](https://www.section.io/engineering-education/react-native-agora-video-conference-app/)
