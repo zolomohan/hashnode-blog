@@ -487,3 +487,7 @@ Response:
 Congratulations, :partying_face: You did it.
 
 Thanks for reading!
+
+---
+
+This article was originally published in [Section.io](https://www.section.io/engineering-education/agora-cloud-recording/)
