@@ -302,3 +302,7 @@ You can take a look at the deployed version of the project [here](https://zolomo
 Congratulations, :partying_face: You did it.
 
 Thanks for reading!
+
+---
+
+This article was originally published in [Section.io](https://www.section.io/engineering-education/speech-recognition-in-javascript/)
