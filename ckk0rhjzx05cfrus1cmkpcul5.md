@@ -278,6 +278,10 @@ Now, when you click on the button, the theme should change.
 
 - We built an application that uses context API and reducers to implement dark mode in the application.
 
-Congratulations, :partying_face: You did it.
+Congratulations, You did it.
 
 Thanks for reading!
+
+---
+
+This article was originally published in [Section.io](https://www.section.io/engineering-education/dark-mode-for-react-app-using-context-api-and-hooks/)
