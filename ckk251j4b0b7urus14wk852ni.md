@@ -374,3 +374,7 @@ You can also check out the final code in this [GitHub Repository](https://github
 Congratulations, :partying_face: You did it.
 
 Thanks for reading!
+
+---
+
+This article was originally published in [Section.io](https://www.section.io/engineering-education/text-to-speech-in-javascript/)
