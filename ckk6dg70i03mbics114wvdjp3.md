@@ -1,4 +1,4 @@
-## Text Recognition using Firebase ML in a React Native App
+## Text Recognition using Firebase ML in React Native
 
 Firebase ML Kit's text recognition APIs can recognize text in any Latin-based character set. They can also be used to automate data-entry tasks such as processing credit cards, receipts, and business cards. In this tutorial, we will be building a Non-Expo React Native application to recognize text from an image using Firebase's ML kit.
 
