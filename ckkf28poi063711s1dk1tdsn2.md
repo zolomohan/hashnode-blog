@@ -409,8 +409,12 @@ await ml().cloudImageLabelerProcessImage(imagePath, {
 
 8. We displayed the results in the UI.
 
-9. We learned about  additional configurations that we can pass to the `cloudImageLabelerProcessImage` function.
+9. We learned about additional configurations that we can pass to the `cloudImageLabelerProcessImage` function.
 
 Congratulations, :partying_face: You did it.
 
 Thanks for Reading!
+
+---
+
+This article was originally published in [Section.io](https://www.section.io/engineering-education/react-native-firebase-image-labeling/)
