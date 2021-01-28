@@ -14,7 +14,7 @@ To proceed with this tutorial:
 
 - You will need a basic understanding of React & React Native.
 
-- You will need a Firebase project with the [Blaze plan](https://firebase.google.com/pricing) enabled to access the Cloud Vision APIs.
+- You will need a Firebase project with the [Blaze plan](https://firebase.google.com/pricing) enabled to access the Cloud Vision APIs. You can check out the pricing for the Cloud Vision API from [here](https://cloud.google.com/vision/pricing).
 
 ### Overview
 
