@@ -1,4 +1,4 @@
-## Image Labelling using Firebase ML in React Native
+## Image Labeling using Firebase ML in React Native
 
 Image labeling gives you insight into the content of images. In this tutorial, we will be building a Non-Expo React Native application to label the image provided using the machine learning kit from Firebase.
 
