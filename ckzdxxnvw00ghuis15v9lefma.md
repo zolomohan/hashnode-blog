@@ -1,4 +1,4 @@
-## React Native Firebase Email Password Authentication
+## Email Password Authentication using Firebase in React Native
 
 In this tutorial, we will learn how to authenticate users with their email and password using Firebase's authentication module in a Non-Expo React Native application.
 
