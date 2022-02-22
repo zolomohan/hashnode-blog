@@ -373,8 +373,10 @@ You can also check out the final code in this [GitHub Repository](https://github
 
 Congratulations, :partying_face: You did it.
 
-Thanks for reading!
+Happy Coding!
 
 ---
 
-This article was originally published in [Section.io](https://www.section.io/engineering-education/text-to-speech-in-javascript/)
+I do all my writing in my spare time, so if you feel inclined, a tip is always incredibly appreciated.
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/zolomohan)
