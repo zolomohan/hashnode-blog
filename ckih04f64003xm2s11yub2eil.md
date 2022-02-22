@@ -429,7 +429,7 @@ Pass the `onShare` function to the Share button's `onPress` prop.
 
 Congratulations, :partying_face: You did it.
 
-Thanks for Reading!
+Happy Coding!
 
 ---
 
