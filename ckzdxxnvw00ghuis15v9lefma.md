@@ -314,4 +314,4 @@ Thanks for reading!
 
 I do all my writing in my spare time, so if you feel inclined, a tip is always incredibly appreciated.
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/capscode)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/zolomohan)
