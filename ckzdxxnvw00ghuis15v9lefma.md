@@ -314,4 +314,4 @@ Thanks for reading!
 
 I do all my writing in my spare time, so if you feel inclined, a tip is always incredibly appreciated.
 
-<a href="https://www.buymeacoffee.com/zolomohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" style="border-radius:10px;"></a>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/capscode)
