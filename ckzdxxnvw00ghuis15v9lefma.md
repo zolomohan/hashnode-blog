@@ -309,3 +309,9 @@ auth().onAuthStateChanged((user) => {
 Congratulations, :partying_face: You did it.
 
 Thanks for reading!
+
+---
+
+I do all my writing in my spare time, so if you feel inclined, a tip is always incredibly appreciated.
+
+<a href="https://www.buymeacoffee.com/zolomohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
