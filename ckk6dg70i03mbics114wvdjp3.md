@@ -415,8 +415,10 @@ await ml().cloudDocumentTextRecognizerProcessImage(imagePath, {
 
 Congratulations, :partying_face: You did it.
 
-Thanks for Reading!
+Happy Coding!
 
 ---
 
-This article was originally published in [Section.io](https://www.section.io/engineering-education/react-native-text-recognition-with-firebase/)
+I do all my writing in my spare time, so if you feel inclined, a tip is always incredibly appreciated.
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/zolomohan)
