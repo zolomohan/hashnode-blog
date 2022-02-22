@@ -280,8 +280,10 @@ Now, when you click on the button, the theme should change.
 
 Congratulations, You did it.
 
-Thanks for reading!
+Happy Coding!
 
 ---
 
-This article was originally published in [Section.io](https://www.section.io/engineering-education/dark-mode-for-react-app-using-context-api-and-hooks/)
+I do all my writing in my spare time, so if you feel inclined, a tip is always incredibly appreciated.
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/zolomohan)
