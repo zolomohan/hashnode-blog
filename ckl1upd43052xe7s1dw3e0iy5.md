@@ -419,7 +419,7 @@ If the Device Verification API is not enabled, or if SafetyNet can't be reached,
 
 Congratulations, :partying_face: You did it.
 
-Thanks for reading & Happy Coding!
+Happy Coding!
 
 ---
 
